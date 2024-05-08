@@ -11,5 +11,5 @@ REPORT ZZTEST001.
 
 
 DATA :
-      LV_AT type char2 VALUE 'DE'.
+      LV_AT type char2 VALUE 'No Active'.
 ** This is DE Branch Code
